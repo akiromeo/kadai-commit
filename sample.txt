@@ -1,1 +1,1 @@
-sample txt is ready!
+これは最初のコミットです。
